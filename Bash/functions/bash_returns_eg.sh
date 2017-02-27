@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+# Author: Nick Knowles (knowlen@wwu.edu)
+
 
 # NOTEs: 
 #   $(( .. )) allows you to preform math ops.
