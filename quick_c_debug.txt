@@ -1,0 +1,6 @@
+### PLACEHOLDER FOR LARGER GUIDE ###
+
+Useful tricks:
+    $strace ./c_program args
+
+
